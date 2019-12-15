@@ -3,6 +3,6 @@
 </h1>
 <p align="center"></p>
 
-![demo](https://github.com/ludmylaalmeida/multiplicationTable-v3/blob/master/demo.png?raw=true)
+![demo](https://raw.githubusercontent.com/ludmylaalmeida/ants-and-doodlebugs/master/screen.png)
 
 
