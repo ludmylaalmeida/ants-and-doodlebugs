@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ants and Doodlebugs by Ludmyla Almeida
+  Ants and Doodlebugs
 </h1>
 <p align="center">The goal for this programming project is to create a simple 2D predator-prey simulation. In this
 simulation the prey are ants and the predators are doodlebugs.</p>
