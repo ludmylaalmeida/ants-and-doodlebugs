@@ -2,7 +2,7 @@
   Ants and Doodlebugs
 </h1>
 <p align="center">The goal for this programming project is to create a simple 2D predator-prey simulation. In this
-simulation the prey are ants and the predators are doodlebugs.</p>
+simulation the prey are ants(green circles) and the predators are doodlebugs(red circles).</p>
 
 ![demo](https://raw.githubusercontent.com/ludmylaalmeida/ants-and-doodlebugs/master/screen.png)
 ![demo](https://github.com/ludmylaalmeida/ants-and-doodlebugs/blob/master/game.gif?raw=true)
