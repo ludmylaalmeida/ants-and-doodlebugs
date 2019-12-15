@@ -1,4 +1,3 @@
-# ants-and-doodlebugs
 <h1 align="center">
   Ants and Doodlebugs
 </h1>
