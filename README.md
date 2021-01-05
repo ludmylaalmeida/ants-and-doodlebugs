@@ -7,7 +7,13 @@ simulation the prey are ants(green circles) and the predators are doodlebugs(red
 ![demo](https://raw.githubusercontent.com/ludmylaalmeida/ants-and-doodlebugs/master/screen.png)
 ![demo](https://github.com/ludmylaalmeida/ants-and-doodlebugs/blob/master/game.gif?raw=true)
 
-<p>Dependencies : SFML </p>
+<h4>How It's Made</h4>
+<p>Tech used: C++</p>
+
+<p>I designed the initial screen and button to make the project look more like a game</p> 
+
+<h4>Dependencies</h4>
+<p>SFML </p>
 
 <p>This project is an assignment from <a href="https://www.uml.edu/sciences/computer-science/faculty/adams-david.aspx" target="_blank">Dr. Adams</a> at UMASS Lowell</br>
  Ludmyla Almeida, UMass Lowell Computer Science, ludmyla_almeida@student.uml.edu</br>
